@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\PhongBackEnd\PhongBackEnd\bin\Debug\net8.0\PhongBackEnd.exe
+C:\Users\Admin\source\repos\PhongBackEnd\PhongBackEnd\bin\Debug\net8.0\PhongBackEnd.deps.json
+C:\Users\Admin\source\repos\PhongBackEnd\PhongBackEnd\bin\Debug\net8.0\PhongBackEnd.runtimeconfig.json
+C:\Users\Admin\source\repos\PhongBackEnd\PhongBackEnd\bin\Debug\net8.0\PhongBackEnd.dll
+C:\Users\Admin\source\repos\PhongBackEnd\PhongBackEnd\bin\Debug\net8.0\PhongBackEnd.pdb
+C:\Users\Admin\source\repos\PhongBackEnd\PhongBackEnd\obj\Debug\net8.0\PhongBackEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\PhongBackEnd\PhongBackEnd\obj\Debug\net8.0\PhongBackEnd.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\PhongBackEnd\PhongBackEnd\obj\Debug\net8.0\PhongBackEnd.AssemblyInfo.cs
+C:\Users\Admin\source\repos\PhongBackEnd\PhongBackEnd\obj\Debug\net8.0\PhongBackEnd.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\PhongBackEnd\PhongBackEnd\obj\Debug\net8.0\PhongBackEnd.dll
+C:\Users\Admin\source\repos\PhongBackEnd\PhongBackEnd\obj\Debug\net8.0\refint\PhongBackEnd.dll
+C:\Users\Admin\source\repos\PhongBackEnd\PhongBackEnd\obj\Debug\net8.0\PhongBackEnd.pdb
+C:\Users\Admin\source\repos\PhongBackEnd\PhongBackEnd\obj\Debug\net8.0\PhongBackEnd.genruntimeconfig.cache
+C:\Users\Admin\source\repos\PhongBackEnd\PhongBackEnd\obj\Debug\net8.0\ref\PhongBackEnd.dll
